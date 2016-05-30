@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Beam Cottage Contruction Starts
-datePublished: '2016-05-30T13:25:40.444Z'
-dateModified: '2016-05-30T13:25:25.636Z'
+datePublished: '2016-05-30T14:07:20.286Z'
+dateModified: '2016-05-30T14:06:50.050Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-beam-cottage-contruction-starts.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-30-beam-cottage-contruction-starts.md
+starred: true
 url: beam-cottage-contruction-starts/index.html
 _type: Article
 
@@ -25,3 +25,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c3d1bb-1989-4a74-ac19-4e04e5e8fce1.png)
 
 Beam Cottage Contruction Starts
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/460fa6ab-9422-4c12-bcbf-8061c0c2c575.png)
