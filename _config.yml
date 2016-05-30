@@ -1,6 +1,6 @@
-name: beamcottagearchitect
+name: beam cottage architect
 favicon: null
-layout_spectrum: 0.40724
+layout_spectrum: 0.24956
 typography_spectrum: 0.85004
 title: Beam Cottage Architect
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4c4c3d'
     - '#1b1c13'
     - '#d5cea0'
-  brandStrength: 0.75
-  lightness: 0.43098089611157775
+  brandStrength: 0.375
+  lightness: 0.25
   saturation: 0.5558165416587144
   rhythmicContrast: 0.75
 purpose: []
