@@ -1,7 +1,7 @@
 name: beamcottagearchitect
 favicon: null
 layout_spectrum: 0.40724
-typography_spectrum: 0.44117840891703963
+typography_spectrum: 0.85004
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6558792714495212
+    - '#fcf6a9'
+    - '#8b896b'
+    - '#4c4c3d'
+    - '#1b1c13'
+    - '#d5cea0'
+  brandStrength: 0.75
   lightness: 0.43098089611157775
   saturation: 0.5558165416587144
   rhythmicContrast: 0.21766655356623232
